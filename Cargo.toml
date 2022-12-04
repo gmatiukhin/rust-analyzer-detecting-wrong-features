@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = [
+  "runnable",
+  "runnable_no_feat",
+  "stuff"
+]
