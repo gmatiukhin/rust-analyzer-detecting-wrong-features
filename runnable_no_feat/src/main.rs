@@ -3,5 +3,4 @@
 fn main() {
     println!("{}", stuff::HELLO_UNCONDITIONAL);
     println!("{}", stuff::feat::HELLO_CONDITIONAL);
-    println!("{}", stuff::feat::get_rand());
 }
